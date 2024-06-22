@@ -1,0 +1,447 @@
+[
+    {
+        "id": 1,
+        "nombre": "3EN1.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/3EN1.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "3M.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/3M.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "ABB.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/ABB.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "ACEROS NACIONALES.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/ACEROS NACIONALES.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "ACRILASTIC.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/ACRILASTIC.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "ALTAMIRA.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/ALTAMIRA.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "ANCLO.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/ANCLO.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "ANSORG.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/ANSORG.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "AQUAPAK.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/AQUAPAK.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "AUSTROMEX.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/AUSTROMEX.jpg"
+    },
+    {
+        "id": 11,
+        "nombre": "AVANPLASTIC.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/AVANPLASTIC.jpg"
+    },
+    {
+        "id": 12,
+        "nombre": "BAYER.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/BAYER.jpg"
+    },
+    {
+        "id": 13,
+        "nombre": "BAYUSA.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/BAYUSA.jpg"
+    },
+    {
+        "id": 14,
+        "nombre": "BLACK + DECKER.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/BLACK + DECKER.jpg"
+    },
+    {
+        "id": 15,
+        "nombre": "BORO.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/BORO.jpg"
+    },
+    {
+        "id": 16,
+        "nombre": "BRASSO.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/BRASSO.jpg"
+    },
+    {
+        "id": 17,
+        "nombre": "BTICINO.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/BTICINO.jpg"
+    },
+    {
+        "id": 18,
+        "nombre": "BURNDY.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/BURNDY.jpg"
+    },
+    {
+        "id": 19,
+        "nombre": "BYP (1).jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/BYP (1).jpg"
+    },
+    {
+        "id": 20,
+        "nombre": "CALIDRA.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/CALIDRA.jpg"
+    },
+    {
+        "id": 21,
+        "nombre": "CANTUBO.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/CANTUBO.jpg"
+    },
+    {
+        "id": 22,
+        "nombre": "CASTOR.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/CASTOR.jpg"
+    },
+    {
+        "id": 23,
+        "nombre": "CEMEX.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/CEMEX.jpg"
+    },
+    {
+        "id": 24,
+        "nombre": "COFLEX.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/COFLEX.jpg"
+    },
+    {
+        "id": 25,
+        "nombre": "CONDULAC.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/CONDULAC.jpg"
+    },
+    {
+        "id": 26,
+        "nombre": "CONTACT.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/CONTACT.jpg"
+    },
+    {
+        "id": 27,
+        "nombre": "COOPER.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/COOPER.jpg"
+    },
+    {
+        "id": 28,
+        "nombre": "CUPRUM.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/CUPRUM.jpg"
+    },
+    {
+        "id": 29,
+        "nombre": "CYTSA.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/CYTSA.jpg"
+    },
+    {
+        "id": 30,
+        "nombre": "DEACERO.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/DEACERO.jpg"
+    },
+    {
+        "id": 31,
+        "nombre": "DEPSA.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/DEPSA.jpg"
+    },
+    {
+        "id": 32,
+        "nombre": "DEWALT.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/DEWALT.jpg"
+    },
+    {
+        "id": 33,
+        "nombre": "DURALON.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/DURALON.jpg"
+    },
+    {
+        "id": 34,
+        "nombre": "EATON.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/EATON.jpg"
+    },
+    {
+        "id": 35,
+        "nombre": "EB TECNICA.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/EB TECNICA.jpg"
+    },
+    {
+        "id": 36,
+        "nombre": "ESTEVEZ.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/ESTEVEZ.jpg"
+    },
+    {
+        "id": 37,
+        "nombre": "EVANS.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/EVANS.jpg"
+    },
+    {
+        "id": 38,
+        "nombre": "FENDELI.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/FENDELI.jpg"
+    },
+    {
+        "id": 39,
+        "nombre": "FESTER (1).jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/FESTER (1).jpg"
+    },
+    {
+        "id": 40,
+        "nombre": "FIERO.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/FIERO.jpg"
+    },
+    {
+        "id": 41,
+        "nombre": "FLEXIMATIC.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/FLEXIMATIC.jpg"
+    },
+    {
+        "id": 42,
+        "nombre": "FLOWGUARD GOLD.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/FLOWGUARD GOLD.jpg"
+    },
+    {
+        "id": 43,
+        "nombre": "FOSET.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/FOSET.jpg"
+    },
+    {
+        "id": 44,
+        "nombre": "GENERAL PAINT.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/GENERAL PAINT.jpg"
+    },
+    {
+        "id": 45,
+        "nombre": "GOODYEAR.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/GOODYEAR.jpg"
+    },
+    {
+        "id": 46,
+        "nombre": "HERMEX.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/HERMEX.jpg"
+    },
+    {
+        "id": 47,
+        "nombre": "IGOTO.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/IGOTO.jpg"
+    },
+    {
+        "id": 48,
+        "nombre": "INFRA.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/INFRA.jpg"
+    },
+    {
+        "id": 49,
+        "nombre": "INGUSA.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/INGUSA.jpg"
+    },
+    {
+        "id": 50,
+        "nombre": "IUSA.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/IUSA.jpg"
+    },
+    {
+        "id": 51,
+        "nombre": "JAZMIN.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/JAZMIN.jpg"
+    },
+    {
+        "id": 52,
+        "nombre": "KLINTEK.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/KLINTEK.jpg"
+    },
+    {
+        "id": 53,
+        "nombre": "KOBREX.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/KOBREX.jpg"
+    },
+    {
+        "id": 54,
+        "nombre": "KOLALOKA.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/KOLALOKA.jpg"
+    },
+    {
+        "id": 55,
+        "nombre": "LINCOLNELECTRIC.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/LINCOLNELECTRIC.jpg"
+    },
+    {
+        "id": 56,
+        "nombre": "MAKITA.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/MAKITA.jpg"
+    },
+    {
+        "id": 57,
+        "nombre": "MAXIFLEX.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/MAXIFLEX.jpg"
+    },
+    {
+        "id": 58,
+        "nombre": "MIBER.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/MIBER.jpg"
+    },
+    {
+        "id": 59,
+        "nombre": "MIRAGE.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/MIRAGE.jpg"
+    },
+    {
+        "id": 60,
+        "nombre": "MUELLER INDUSTRIES.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/MUELLER INDUSTRIES.jpg"
+    },
+    {
+        "id": 61,
+        "nombre": "MYTEK.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/MYTEK.jpg"
+    },
+    {
+        "id": 62,
+        "nombre": "PANEL REY.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/PANEL REY.jpg"
+    },
+    {
+        "id": 63,
+        "nombre": "PANEL W.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/PANEL W.jpg"
+    },
+    {
+        "id": 64,
+        "nombre": "PERDURA.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/PERDURA.jpg"
+    },
+    {
+        "id": 65,
+        "nombre": "PHILLIPS.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/PHILLIPS.jpg"
+    },
+    {
+        "id": 66,
+        "nombre": "PLAKA.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/PLAKA.jpg"
+    },
+    {
+        "id": 67,
+        "nombre": "POLIMEX.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/POLIMEX.jpg"
+    },
+    {
+        "id": 68,
+        "nombre": "PRESTO.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/PRESTO.jpg"
+    },
+    {
+        "id": 69,
+        "nombre": "PRETUL.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/PRETUL.jpg"
+    },
+    {
+        "id": 70,
+        "nombre": "PYMA.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/PYMA.jpg"
+    },
+    {
+        "id": 71,
+        "nombre": "RAWELT.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/RAWELT.jpg"
+    },
+    {
+        "id": 72,
+        "nombre": "RESISTOL.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/RESISTOL.jpg"
+    },
+    {
+        "id": 73,
+        "nombre": "RETO.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/RETO.jpg"
+    },
+    {
+        "id": 74,
+        "nombre": "ROTOPLAS.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/ROTOPLAS.jpg"
+    },
+    {
+        "id": 75,
+        "nombre": "ROYALTY.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/ROYALTY.jpg"
+    },
+    {
+        "id": 76,
+        "nombre": "ROYER.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/ROYER.jpg"
+    },
+    {
+        "id": 77,
+        "nombre": "SELLAPEG.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/SELLAPEG.jpg"
+    },
+    {
+        "id": 78,
+        "nombre": "SIGMA.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/SIGMA.jpg"
+    },
+    {
+        "id": 79,
+        "nombre": "SQUARED.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/SQUARED.jpg"
+    },
+    {
+        "id": 80,
+        "nombre": "TECNOLITE.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/TECNOLITE.jpg"
+    },
+    {
+        "id": 81,
+        "nombre": "TENDENZZA.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/TENDENZZA.jpg"
+    },
+    {
+        "id": 82,
+        "nombre": "TERNIUM.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/TERNIUM.jpg"
+    },
+    {
+        "id": 83,
+        "nombre": "TOLTECA.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/TOLTECA.jpg"
+    },
+    {
+        "id": 84,
+        "nombre": "TRUPER.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/TRUPER.jpg"
+    },
+    {
+        "id": 85,
+        "nombre": "URREA.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/URREA.jpg"
+    },
+    {
+        "id": 86,
+        "nombre": "VITROMEX.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/VITROMEX.jpg"
+    },
+    {
+        "id": 87,
+        "nombre": "VOLTECK.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/VOLTECK.jpg"
+    },
+    {
+        "id": 88,
+        "nombre": "WD-40.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/WD-40.jpg"
+    },
+    {
+        "id": 89,
+        "nombre": "YEI.jpg",
+        "ruta_completa": "src/Components/CardMarcas/assets/YEI.jpg"
+    }
+]

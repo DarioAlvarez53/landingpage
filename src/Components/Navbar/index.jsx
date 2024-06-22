@@ -33,6 +33,7 @@ const Navbar = () => {
               smooth={true} 
               duration={500} 
               className="group relative inline-block cursor-pointer hover:text-primary"
+              onClick={closeMenu}
             >
                 Nosotros
                 <span className="absolute inset-x-0 bottom-0 h-0.5 bg-primary transform scale-x-0 origin-left transition-transform group-hover:scale-x-100 "></span>
@@ -43,6 +44,7 @@ const Navbar = () => {
               smooth={true} 
               duration={500} 
               className="group relative inline-block cursor-pointer hover:text-primary"
+              onClick={closeMenu}
             >
                 Marcas
                 <span className="absolute inset-x-0 bottom-0 h-0.5 bg-primary transform scale-x-0 origin-left transition-transform group-hover:scale-x-100 "></span>
@@ -53,16 +55,18 @@ const Navbar = () => {
               smooth={true} 
               duration={500} 
               className="group relative inline-block cursor-pointer hover:text-primary"
+              onClick={closeMenu}
             >
                 Sucursales
                 <span className="absolute inset-x-0 bottom-0 h-0.5 bg-primary transform scale-x-0 origin-left transition-transform group-hover:scale-x-100 "></span>
             </Link>
 
-            <Link to="Bolsa-de-trabajo" 
+            <Link to="Vacantes" 
               spy={true} 
               smooth={true} 
               duration={500} 
               className="group relative inline-block cursor-pointer hover:text-primary"
+              onClick={closeMenu}
             >
                 Bolsa de trabajo
                 <span className="absolute inset-x-0 bottom-0 h-0.5 bg-primary transform scale-x-0 origin-left transition-transform group-hover:scale-x-100 "></span>
