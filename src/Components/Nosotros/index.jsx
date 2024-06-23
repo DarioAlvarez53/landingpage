@@ -1,6 +1,6 @@
 import Grupo from "./assets/grupo.png"
 import { Link } from "react-scroll";
-import { FaBullseye } from "react-icons/fa6";
+import { FaBullseye, FaRegLightbulb, FaRegStar } from "react-icons/fa6";
 
 
 const Nosotros = () => {
@@ -41,7 +41,7 @@ const Nosotros = () => {
 
                 <div className="h-96 bg-white shadow-xl border border-primary rounded-xl lg:w-1/3 text-primary hover:bg-primary hover:text-white">
                     <div className="flex flex-col justify-center items-center mt-8">
-                        <FaBullseye size={125}/>
+                        <FaRegLightbulb size={125}/>
                         <p className="mt-3 text-2xl font-bold">Nuestra visión</p>
                         <p className="px-5 py-1 text-center text-white">Permanecer lideres en la venta de materiales para la construcción ofreciendo siempre la mejor asesoría, servicio, precio y calidad, siendo la mejor alternativa en el mercado</p>
                     </div>
@@ -49,7 +49,7 @@ const Nosotros = () => {
 
                 <div className="h-96 bg-white shadow-xl border border-primary rounded-xl lg:w-1/3 text-primary hover:bg-primary hover:text-white ">
                     <div className="flex flex-col justify-center items-center mt-8">
-                        <FaBullseye size={125}/>
+                        <FaRegStar size={125}/>
                         <p className="mt-3 text-2xl font-bold">Nuestros valores</p>
                         <p className="px-5 py-1 text-center text-white">
                             Actitud positiva,

@@ -12,6 +12,7 @@ export default {
       },
       backgroundImage: {
         fondo: "url(./src/assets/Fondo.jpg)"
+        
       }
     },
   },

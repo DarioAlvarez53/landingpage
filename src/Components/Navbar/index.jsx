@@ -19,7 +19,7 @@ const Navbar = () => {
   }
 
   return (
-    <div className="fixed w-full z-10">
+    <div className="fixed w-full z-50">
       <div>
         <div className="flex flex-row justify-between p-3 lg:px-32 px-5 bg-gradient-to-r from-backgorundColor to-primary shadow[0_3px_10px_rgba(0,0,0,0.2)]">
           {/* Logo */}

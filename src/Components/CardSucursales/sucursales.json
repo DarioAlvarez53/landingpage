@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "nombre": "Corporativo Ecohome",
+        "direccion": "Hidalgo #605 A, Las Cuentas, 45430 Zapotlanejo, Jal.",
+        "mapa": "https://g.co/kgs/vHDJdeL",
+        "img": "src/Components/CardSucursales/assets/corporativo.jpeg"
+    },
+    {
+        "id": 2,
+        "nombre": "Sucursal Hidalgo",
+        "direccion": "Prolongación Hidalgo #555, Las Granjas, 45430 Zapotlanejo, Jal.",
+        "mapa": "https://g.co/kgs/kAiNrUy",
+        "img": "src/Components/CardSucursales/assets/hidalgo.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Sucursal Juarez",
+        "direccion": "Juárez #352, Jardines del Paraíso, 45430 Zapotlanejo, Jal.",
+        "mapa": "https://g.co/kgs/qheHYzA",
+        "img": "src/Components/CardSucursales/assets/juarez.jpeg"
+    },
+    {
+        "id": 4,
+        "nombre": "Sucursal Purisima",
+        "direccion": "Abasolo #84, 45443 La Purísima, Jal.",
+        "mapa": "https://g.co/kgs/sXoPNs6",
+        "img": "src/Components/CardSucursales/assets/purisima.jpeg"
+    },
+    {
+        "id": 5,
+        "nombre": "Sucursal La Laja",
+        "direccion": "De los Altos 43-A, 45430 La Laja, Jal.",
+        "mapa": "https://g.co/kgs/WCJfz1k",
+        "img": "src/Components/CardSucursales/assets/laja.jpeg"
+    },
+    {
+        "id": 6,
+        "nombre": "Sucursal Puente Grande",
+        "direccion": "5 de Mayo 231, El Jordan, 45427 Puente Grande, Jal.",
+        "mapa": "https://g.co/kgs/uUWtAy3",
+        "img": "src/Components/CardSucursales/assets/puente.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Sucursal Santa Fe",
+        "direccion": "Av Hidalgo 163, San Isidro, 45460 Santa Fe, Jal.",
+        "mapa": "https://g.co/kgs/kWnFztj",
+        "img": "src/Components/CardSucursales/assets/santafe.jpeg"
+    },
+    {
+        "id": 8,
+        "nombre": "Sucursal Aviacion",
+        "direccion": "Av. Aviación 3469, San Juan de Ocotán, 45019 Zapopan, Jal.",
+        "mapa": "https://g.co/kgs/X9afyMT",
+        "img": "src/Components/CardSucursales/assets/aviacion.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Sucursal Aceros",
+        "direccion": "Hidalgo 561, Las Granjas, 45430 Zapotlanejo, Jal.",
+        "mapa": "https://g.co/kgs/mFYezZ4",
+        "img": "src/Components/CardSucursales/assets/aceros.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "Sucursal Fester",
+        "direccion": "Hidalgo 561, Las Granjas, 45430 Zapotlanejo, Jal.",
+        "mapa": "https://g.co/kgs/Rq9jggZ",
+        "img": "src/Components/CardSucursales/assets/fester.jpg"
+    },
+    {
+        "id": 11,
+        "nombre": "Sucursal Pinturas Berel",
+        "direccion": "Hidalgo 561, Las Granjas, 45430 Zapotlanejo, Jal.",
+        "mapa": "https://g.co/kgs/UtyxMfE",
+        "img": "src/Components/CardSucursales/assets/berel.jpg"
+    },
+    {
+        "id": 12,
+        "nombre": "Sucursal Outlet",
+        "direccion": "Hidalgo 500-B, Las Granjas, 45430 Zapotlanejo, Jal.",
+        "mapa": "https://g.co/kgs/R1jmPtq",
+        "img": "src/Components/CardSucursales/assets/outlet.JPG"
+    },
+    {
+        "id": 13,
+        "nombre": "Sucursal Pisos y Acabados",
+        "direccion": "Hidalgo 513, Las Granjas, 45430 Zapotlanejo, Jal.",
+        "mapa": "https://g.co/kgs/pZjEPKB",
+        "img": "src/Components/CardSucursales/assets/pisos.jpg"
+    }
+]
