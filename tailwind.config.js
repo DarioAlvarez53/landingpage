@@ -7,8 +7,8 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: "#AB6B2E",
-        backgorundColor: "#FDE9CC"
+        primary: "#EC1C24",
+        backgorundColor: "#4A0508"
       },
       backgroundImage: {
         fondo: "url(./src/assets/Fondo.jpg)"

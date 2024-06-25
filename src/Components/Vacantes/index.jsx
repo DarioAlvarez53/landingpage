@@ -11,19 +11,19 @@ const Vacantes = () => {
           <form action="" className="py-5 text-center items-center">
             <div className="flex flex-col px-4 mb-4">
               <label htmlFor="" className="mb-1 font-regular text-lg">Nombre completo</label>
-              <input type="text" className="h-10 rounded-lg placeholder:p-4 bg-backgorundColor placeholder:text-center text-center" placeholder="Nombre completo" />
+              <input type="text" className="h-10 rounded-lg placeholder:p-4 bg-gray-100 placeholder:text-center text-center shadow-md" placeholder="Nombre completo" />
             </div>
             <div className="flex flex-col px-4 mb-4">
               <label htmlFor="" className="mb-1 font-regular text-lg">Direccion</label>
-              <input type="text" className="h-10 rounded-lg placeholder:p-4 bg-backgorundColor placeholder:text-center text-center" placeholder="Nombre completo" />
+              <input type="text" className="h-10 rounded-lg placeholder:p-4 bg-gray-100 placeholder:text-center text-center shadow-md" placeholder="Nombre completo" />
             </div>
             <div className="flex flex-col px-4 mb-4">
               <label htmlFor="" className="mb-1 font-regular text-lg">Correo electronico</label>
-              <input type="text" className="h-10 rounded-lg placeholder:p-4 bg-backgorundColor placeholder:text-center text-center" placeholder="Nombre completo" />
+              <input type="text" className="h-10 rounded-lg placeholder:p-4 bg-gray-100 placeholder:text-center text-center shadow-md" placeholder="Nombre completo" />
             </div>
             <div className="flex flex-col px-4 mb-4">
               <label htmlFor="" className="mb-1 font-regular text-lg">Teléfono</label>
-              <input type="text" className="h-10 rounded-lg placeholder:p-4 bg-backgorundColor placeholder:text-center text-center" placeholder="Nombre completo" />
+              <input type="text" className="h-10 rounded-lg placeholder:p-4 bg-gray-100 placeholder:text-center text-center shadow-md" placeholder="Nombre completo" />
             </div>
             <div className="flex flex-col px-4 mb-4">
               <button type="submit" className="bg-primary p-2 rounded-xl text-white font-semibold">Enviar</button>

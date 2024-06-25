@@ -43,8 +43,8 @@ const Footer = () => {
           </div>
         </div>
       </div>
-      <div className='w-scree bg-backgorundColor items-center justify-center flex'>
-        <p>©2024 <span className='text-primary'>Ecohome en Movimiento S.A. de C.V.</span></p>
+      <div className='w-scree bg-white items-center justify-center flex'>
+        <p>©2024 <span className='text-primary font-bold'>Ecohome en Movimiento S.A. de C.V.</span></p>
       </div>
     </>
   )
