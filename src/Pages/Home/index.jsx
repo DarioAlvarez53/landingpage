@@ -17,7 +17,7 @@ function Home() {
             <div id='Sucursales'>
                 <Sucursales />
             </div>
-            <div id='Vacantes'>
+            <div id='Bolsa de trabajo'>
                 <Vacantes />
             </div>
             <div>
